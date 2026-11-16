@@ -1,6 +1,6 @@
 cask "reviewly" do
-  version "1.1.7"
-  sha256 "a8d2fbe0c43ddc3f900312c6a8f06a9c7b2e0dad0154d076fe5f7f47b35287ff"
+  version "1.1.8"
+  sha256 "b4324a2da9215ea7e8d725b10b85b62c5a007cb35edd97ae045a92611d85912f"
 
   url "https://github.com/volnei/reviewly/releases/download/v#{version}/Reviewly-#{version}-macos.dmg"
   name "Reviewly"
